@@ -478,6 +478,9 @@ body {
 .bgget{
   padding:105px 0px 110px 0px ;
 }
+.get_text{
+  width: 730px;
+}
 .get{
   display: flex;
   flex-direction: column;
