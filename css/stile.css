@@ -475,7 +475,13 @@ body {
   height: 3px;
   background-color: #ff2d2d;
 }
-
+.get{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding:105px 0px 110px 0px ;
+  height: 215px;
+}
 .footer {
   height: 110px;
   background: #313030;
