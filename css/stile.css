@@ -447,15 +447,17 @@ body {
   width: 215px;
   height: 80px;
   background-color: #ff2d2d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.Design__butt button{
+.Design__butt a {
   font-size: 18px;
   line-height: 34px;
   font-weight: 700;
   text-transform: uppercase;
   color: #ffffff;
   background: #ff2d2d;
-  margin: auto;
 }
 .Design__scan{
   margin: 0px auto;
