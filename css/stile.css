@@ -492,6 +492,10 @@ body {
   margin: 75px 0px 0px 0px;
   height: 485px;
 }
+.get_input-one{
+  width: 1005px;
+  height: 100%;
+}
 .footer {
   height: 110px;
   background: #313030;
