@@ -363,6 +363,26 @@ body {
           justify-content: space-between;
 }
 
+.Meetourteam__title {
+  margin: 40px 0px;
+}
+
+.Meetourteam__text {
+  width: 450px;
+  margin: 0px 0px 0px 12px;
+}
+
+.Meetourteam_bord {
+  width: 132px;
+  height: 3px;
+  background-color: #ff2d2d;
+  margin: 35px 0px 0px 0px;
+}
+
+.markwaugh {
+  margin: 70px auto 110px auto;
+}
+
 .footer {
   height: 110px;
   background: #313030;
