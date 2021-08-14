@@ -444,6 +444,9 @@ body {
   background-color: #ffffff;
   border-radius: 4px;
 }
+.Design__input input {
+  padding: auto 35px 0px;
+}
 .Design__butt{
   width: 215px;
   height: 80px;
