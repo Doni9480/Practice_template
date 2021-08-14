@@ -413,7 +413,7 @@ body {
   justify-content: space-between;
 }
 .bgDesign{
-  background-color: #2c2c2c;
+  background-color: #f5f0dd;
 }
 .Design{
   height: 510px;
@@ -423,6 +423,7 @@ body {
   justify-content: space-between;
 }
 .Design__title{
+  text-align: center;
   opacity: 0.8;
   font-size: 42px;
   line-height: 24px;
@@ -430,6 +431,7 @@ body {
   color: #ffffff;
 }
 .Design__text{
+  text-align: center;
   opacity: 0.8;
   font-size: 16px;
   line-height: 28px;
@@ -445,6 +447,15 @@ body {
   width: 215px;
   height: 80px;
   background-color: #ff2d2d;
+  text-align: center;
+  vertical-align: middle;
+}
+.Design__butt button{
+  font-size: 18px;
+  line-height: 34px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #ffffff;
 }
 .Design__scan{
   margin: 0px auto;
