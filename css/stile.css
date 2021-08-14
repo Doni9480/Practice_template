@@ -470,6 +470,12 @@ body {
   display: flex;
   justify-content: space-between;
 }
+.get_bord{
+  width: 132px;
+  height: 3px;
+  background-color: #ff2d2d;
+}
+
 .footer {
   height: 110px;
   background: #313030;
