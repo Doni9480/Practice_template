@@ -447,8 +447,7 @@ body {
   width: 215px;
   height: 80px;
   background-color: #ff2d2d;
-  text-align: center;
-  vertical-align: middle;
+  margin: auto;
 }
 .Design__butt button{
   font-size: 18px;
@@ -456,6 +455,7 @@ body {
   font-weight: 700;
   text-transform: uppercase;
   color: #ffffff;
+  background: #ff2d2d;
 }
 .Design__scan{
   margin: 0px auto;
