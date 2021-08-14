@@ -381,13 +381,44 @@ body {
 
 .markwaugh {
   margin: 70px auto 110px auto;
+  display: flex;
+  justify-content: space-between;
 }
-
+.markwaugh_subcont{
+  width: 850px;
+}
+.markwaugh_subtitle{
+  opacity: 0.8;
+  font-size: 30px;
+  line-height: 1.2;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #000000;
+}
+.markwaugh_linck a{
+  opacity: 0.8;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 400;
+  font-style: italic;
+  color: #000000;
+}
+.markwaugh_imga{
+  display: flex;
+  justify-content: space-between;
+}
+.markwaugh_subcont{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
 .footer {
   height: 110px;
   background: #313030;
 }
-
+.markwaugh_text{
+  width: 630px; 
+}
 .footer__div {
   height: 100%;
   display: -webkit-box;
